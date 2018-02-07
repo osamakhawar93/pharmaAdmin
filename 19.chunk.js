@@ -141,7 +141,7 @@ __webpack_require__("./node_modules/ng2-datetime/src/vendor/bootstrap-datepicker
 __webpack_require__("./node_modules/ng2-datetime/src/vendor/bootstrap-timepicker/bootstrap-timepicker.min.js");
 var ng2_datetime_1 = __webpack_require__("./node_modules/ng2-datetime/ng2-datetime.ts");
 var AddDiscountOffer_component_1 = __webpack_require__("./src/app/AddDiscountOffer/AddDiscountOffer.component.ts");
-__webpack_require__("./node_modules/jquery-locationpicker/src/locationpicker.jquery.js");
+/* import "jquery-locationpicker/src/locationpicker.jquery"; */
 exports.routes = [
     { path: '', component: AddDiscountOffer_component_1.AddDiscountOfferComponent, pathMatch: 'full' }
 ];
